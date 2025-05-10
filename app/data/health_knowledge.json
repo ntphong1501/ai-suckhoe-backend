@@ -1,0 +1,14 @@
+[
+  {
+    "trieu_chung": ["đau đầu", "mệt mỏi", "buồn nôn"],
+    "nguyen_nhan": ["thiếu ngủ", "căng thẳng", "huyết áp cao"],
+    "giai_phap": ["nghỉ ngơi", "uống nước", "đo huyết áp"],
+    "canh_bao": "Nếu triệu chứng kéo dài > 3 ngày, hãy đến bác sĩ kiểm tra."
+  },
+  {
+    "trieu_chung": ["ho", "sốt", "đau họng"],
+    "nguyen_nhan": ["cảm lạnh", "viêm họng"],
+    "giai_phap": ["uống nước ấm", "nghỉ ngơi", "không ra gió"],
+    "canh_bao": "Nếu sốt trên 38.5°C trong 2 ngày, cần đi khám."
+  }
+]
